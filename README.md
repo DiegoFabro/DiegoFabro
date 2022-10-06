@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-![text](https://user-images.githubusercontent.com/65359770/189731341-e43792db-bdff-42a5-b5ac-444ba59d99e3.gif)
-
-
-
-
-
-
-
 
 <p>
   
