@@ -10,10 +10,6 @@
 
 
 <p>
-
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="DiegoFabro's github stats" src="https://github-readme-stats.vercel.app/api?username=DiegoFabro&show_icons=true&hide_border=true" />
-  </a>
   
   **Taking my first steps in:** 
   
