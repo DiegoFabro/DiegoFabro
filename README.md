@@ -1,5 +1,7 @@
 ### Hi there 👋
+### Mi name is Diego. I am a student of the UNPSJB in the career of University Programmer Analyst
 
+### I´m currently studying my last subject: Software Development
 
 <p>
   
@@ -18,6 +20,7 @@
 
 
 
+## My contacts:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fabro-907bbb171/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diegoezequielfabro@gmail.com)
